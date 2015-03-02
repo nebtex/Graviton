@@ -9,6 +9,6 @@ Dead simple server task for practical people
 * use Makefiles for define task, task dependencies, etc.
  
  
-![alt tag](http://url/to/img.png)
+![alt tag](https://raw.githubusercontent.com/NebTex/Graviton/master/graviton.png)
 
 
