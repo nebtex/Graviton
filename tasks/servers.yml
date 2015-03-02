@@ -1,0 +1,20 @@
+cassandraDB:
+  identity_file: /home/cristian/.ssh/id_rsa
+  ip: 2.2.2.2, port: 22
+  provider: digitalocean,
+  region: lon1
+  user: root
+
+mysql:
+  identity_file: /home/cristian/.ssh/id_rsa
+  ip: 6.2.1.2, port: 22
+  provider: digitalocean,
+  region: lon1
+  user: root
+
+nginx:
+  identity_file: /home/cristian/.ssh/id_rsa
+  ip: 5.2.8.2, port: 22
+  provider: amazon,
+  region: ec2
+  user: root

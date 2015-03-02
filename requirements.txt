@@ -1,0 +1,4 @@
+paramiko
+pyyaml
+paramiko-gevent
+gevent
